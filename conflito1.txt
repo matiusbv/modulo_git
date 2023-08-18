@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Olá com a branch a
+=======
+Olá com a brach b
+>>>>>>> branch-b
